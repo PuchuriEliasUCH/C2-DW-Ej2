@@ -6,6 +6,7 @@
 
 html{
     scroll-behavior: smooth;
+    background-color: #fcf0f4;
 }
 
 ul{
@@ -22,6 +23,12 @@ h2,
 h3{
     text-align: center;
     padding: 2rem 0;
+}
+
+h1 {
+    font-size: 70px;
+    color: antiquewhite;
+    font-family: verdana;
 }
 
 button,
@@ -45,7 +52,8 @@ textarea{
 .header{
     position: sticky;
     top: 0;
-    background-color: aquamarine;
+    background-color: #e26c8f
+;
     padding: 1rem;
     height: 80px;
     display: flex;
